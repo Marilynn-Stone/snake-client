@@ -10,7 +10,6 @@ Before you can run this client, you will need to be running the server side whic
 
 !["Send messages to opponents"](F57AB871-8CA6-4C61-971A-517B4BF50265_4_5005_c.jpeg)
 
-
 ## Getting Started
 
 - Follow steps inside the snek server repo to run the server side
