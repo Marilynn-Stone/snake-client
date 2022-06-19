@@ -1,7 +1,8 @@
-// import connect from client
-const connect = require("./client");
+// import function to establish a connection to the server
+const connect = require("./src/client");
 
-const setupInput = require("./input");
+// import function to handle user input
+const setupInput = require("./src/input");
 
 console.log("Connecting ...");
 
